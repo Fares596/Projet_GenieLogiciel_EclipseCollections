@@ -22,3 +22,6 @@ Le projet a permis de développer des compétences essentielles en génie logici
 - La capacité à **analyser un projet existant** et à en comprendre la structure.
 - L'**identification de problèmes potentiels** dans le code (complexité, duplication, violations des principes de conception).
 - La **mise en œuvre des solutions** pour améliorer la maintenabilité, la lisibilité et les performances du projet.
+
+
+Lien du repo des modifications : https://github.com/HerminePluie290/eclipse-collections
